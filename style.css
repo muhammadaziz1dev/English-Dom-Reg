@@ -399,6 +399,11 @@ input:focus {
     }
     h2{
         padding-top: 50px;
-        padding-bottom: 20px;
+        padding-bottom: 10px;
+        font-size: 30px;
+        text-align: left;
+    }
+    .text{
+        margin-bottom: 30px;
     }
 }

@@ -1,6 +1,6 @@
 // 1. Sozlamalar
-const botToken = "8721359308:AAHyg1bFBmqRKtSeuah2IpnqhwzrBtCCt_A";
-const chatId = "5574305333"; // O'z chat ID'ingizni tekshirib ko'ring
+const botToken = "8898191621:AAFruJErIuNFCXSJQnRx6Qze4Bmk7XEImWM";
+const chatId = "8101060085"; // O'z chat ID'ingizni tekshirib ko'ring
 
 // 2. Tarjimalar lug'ati
 const translations = {
